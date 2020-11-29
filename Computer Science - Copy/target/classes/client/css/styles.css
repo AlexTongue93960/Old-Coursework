@@ -1,0 +1,22 @@
+#maintitle {
+    color: snow;
+    background-color: darkblue;
+    text-align: center;
+}
+
+#body{
+    background-color: darkblue;
+}
+
+#ItemsTable{
+    background-color: aqua;
+    text-align: center;
+}
+#StatName{
+    color: white;
+}
+
+
+
+.text{color: white}
+.button{align-self: center}
